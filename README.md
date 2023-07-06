@@ -8,3 +8,4 @@ estáticos para mostrar una lista de elementos en el navegador.
 Este proyecto fue creado por: 
 Luis Enrique Brito Vargas, 
 Héctor Daniel Marquina Rodríguez,
+Samuel Cano Pérez,
