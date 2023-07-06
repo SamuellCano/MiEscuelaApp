@@ -9,3 +9,4 @@ Este proyecto fue creado por:
 Luis Enrique Brito Vargas, 
 Héctor Daniel Marquina Rodríguez,
 Samuel Cano Pérez,
+Tania Belen Galindo Villegas
